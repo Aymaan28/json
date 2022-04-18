@@ -1,0 +1,14 @@
+{
+    "school" : [{
+        "student": {
+            "name" : "Robin",
+            "class" : "12"
+        }
+    },
+    {
+        "staff" : {
+            "staff_name" : "Shekar Sir",
+            "staff_type": "C.S. Teacher"
+        }
+    }]
+}

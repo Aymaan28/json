@@ -1,14 +1,148 @@
 {
-    "school" : [{
-        "student": {
-            "name" : "Robin",
-            "class" : "12"
+    "school": [
+      {
+        "Class 12": [
+          {
+            "student": 
+            [{
+              "name": "aymaan",
+              "class":"12",
+              "parent_name": "aymaan",
+              "studentID": "ST001",
+              "parentID": "PT001",
+              "age": "17",
+              "student_detail": {
+                "studentID": [],
+                "address": [],
+                "phone_number": []
+                },
+                "attendance": {
+                  "date": [],
+                  "day": [],
+                  "total": [],
+                  "attendended": []
+                },
+                "marks": {
+                  "exam_type": [
+                    {
+                      "exam_1": {
+                        "date": [],
+                        "exam_name": {
+                          "subname": [],
+                          "total": [],
+                          "obtained": []
+                        }
+                      }
+                    },
+                    {
+                      "exam_2": {
+                         "date": [],
+                          "exam_name": {
+                            "subname": [],
+                            "total": [],
+                            "obtained": []
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "Robin",
+                  "class":"12",
+                  "parent_name": "Robin",
+                  "studentID": "ST002",
+                  "parentID": "PT002",
+                  "age": "17",
+                  "student_detail": {
+                    "studentID": [],
+                    "address": [],
+                    "phone_number": []
+                    },
+                    "attendance": {
+                      "date": [],
+                      "day": [],
+                      "total": [],
+                      "attendended": []
+                    },
+                    "marks": {
+                      "exam_type": [
+                        {
+                          "exam_1": {
+                            "date": [],
+                            "exam_name": {
+                              "subname": [],
+                              "total": [],
+                              "obtained": []
+                            }
+                          }
+                        },
+                        {
+                          "exam_2": {
+                             "date": [],
+                              "exam_name": {
+                                "subname": [],
+                                "total": [],
+                                "obtained": []
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    }
+            ]
+          }
+        ]
+      },
+      {
+        "staff": [
+          {
+          "staff_name": "Sekhar Sir",
+          "staff_type": "Teacher",
+          "staffID": "TH001",
+          "staff_image_link": null
+        },
+        {
+          "staff_name": "Manas Sir",
+          "staff_type": "Teacher",
+          "staffID": "TH002",
+          "staff_image_link": null
+        }       
+      ]
+      },
+      {
+        "notice": [{
+          "date": "18/04/2022",
+          "time": "7:36 pm",
+          "title": "Science Exhibiton",
+          "description": "Science Exhibiton for patia branch is preponded to 22/04 from 23/04, students you are death",
+          "class": "12"
+        },
+        {
+          "date": "19/04/2022",
+          "time": "7:36 pm",
+          "title": "Science Exhibiton Pressure",
+          "description": "Science Exhibiton for patia branch is preponded to 21/04 from 22/04, students you are death",
+          "class": "12"
+        }]
+      },
+      {
+        "news": [
+          {
+            "title": "Science Exhibiton Strike",
+            "description": "Student are striking to postpond the exhibition",
+            "date": "20/04/2022",
+            "time": "11 pm",
+            "class": "12"
+          },
+          {
+          "title": "Science Exhibiton",
+          "description": "Winner of exhibition is...... ",
+          "date": "22/04/2022",
+          "time": "1:30 pm",
+          "class": "12"
         }
-    },
-    {
-        "staff" : {
-            "staff_name" : "Shekar Sir",
-            "staff_type": "C.S. Teacher"
-        }
-    }]
-}
+      ]
+      }
+    ]
+  }

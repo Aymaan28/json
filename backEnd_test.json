@@ -5,7 +5,8 @@
           {
             "student": 
             [{
-              "name": "aymaan",
+              "name": "Sayed Aymaan",
+              "gender" : "male",
               "class":"12",
               "parent_name": "Mrs. Jannat",
               "studentID": "ST001",
@@ -49,6 +50,7 @@
                 },
                 {
                   "name": "Anirban Aditya",
+                  "gender" : "male",
                   "class":"12",
                   "parent_name": "Mr. and Mrs. Mohapatra",
                   "studentID": "ST002",
@@ -142,61 +144,65 @@
           "staff_type_teacher": [
             {
             "staff_name": "Sekhar Sir",
+            "gender" : "male",
             "subject" : "Computer Science",
             "staffID": "TH001",
             "staff_image_link": null
           },
           {
             "staff_name": "Manas Sir",
+            "gender" : "male",
             "subject" : "Physics",
             "staffID": "TH002",
             "staff_image_link": null
           },
           {
             "staff_name": "Prabhat Sir",
+            "gender" : "male",
             "subject" : "Maths",
             "staffID": "TH003",
             "staff_image_link": null
           },
           {
             "staff_name": "Satyamohan Sir",
+            "gender" : "male",
             "subject" : "Chemistry",
             "staffID": "TH004",
             "staff_image_link": null
           },
           {
             "staff_name": "Gayatri Ma'am",
+            "gender" : "female",
             "subject" : "Biology",
             "staffID": "TH005",
             "staff_image_link": null
           },
           {
             "staff_name": "Rath Ma'am ",
+            "gender" : "female",
             "subject" : "English",
             "staffID": "TH006",
             "staff_image_link": null
-          },
-          {
-            "staff_name": "Manas Sir",
-            "staffID": "TH007",
-            "staff_image_link": null
-          }
-        ],
+            },
+          ],
           "staff_type_management" : [
             {
               "staff_name": "B.N. Pattnaik Sir",
+              "gender" : "male",
               "type" : "Chairman",
               "staffID": "MN001",
               "staff_image_link": null
             },
             {
             "staff_name": "Archana Ma'am",
+            "gender" : "female",
             "type" : "Head of Management",
             "staffID": "MN002",
             "staff_image_link": null
           },
           {
             "staff_name": "Jayshree Ma'am",
+            "gender" : "female",
             "type" : "Principal",
             "staffID": "MN003",
             "staff_image_link": null

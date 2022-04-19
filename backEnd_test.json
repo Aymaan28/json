@@ -1,258 +1,258 @@
 {
-    "school": [
-      {
-        "Class 12": [
-          {
-            "student": 
-            [{
-              "name": "Sayed Aymaan",
-              "gender" : "male",
-              "class":"12",
-              "parent_name": "Mrs. Jannat",
+  "school": [
+    {
+      "Class 12": [
+        {
+          "student": 
+          [{
+            "name": "Sayed Aymaan",
+            "gender" : "male",
+            "class":"12",
+            "parent_name": "Mrs. Jannat",
+            "studentID": "ST001",
+            "parentID": "PT001",
+            "age": "17",
+            "student_detail": {
               "studentID": "ST001",
-              "parentID": "PT001",
-              "age": "17",
-              "student_detail": {
-                "studentID": "ST001",
-                "address": "BDA Colony",
-                "phone_number": "+9173260xxxxx"
-                },
-                "attendance": {
-                  "date": "",
-                  "day": "",
-                  "total": "24",
-                  "attendended": "80"
-                },
-                "marks": {
-                  "exam_type": [
-                    {
-                      "exam_1": {
-                        "date": "04/10/2021",
-                        "exam_name_PT1": {
-                          "subname": ["English", "Maths"],
-                          "total": ["40", "40"],
-                          "obtained": ["39", "38"]
-                        }
-                      }
-                    },
-                    {
-                      "exam_2": {
-                         "date": "01/12/2021",
-                          "exam_name_PT2": {
-                            "subname": ["English", "Maths"],
-                            "total": ["40", "40"],
-                            "obtained": ["35", "36"]
-                          }
-                        }
-                      }
-                    ]
-                  }
-                },
-                {
-                  "name": "Anirban Aditya",
-                  "gender" : "male",
-                  "class":"12",
-                  "parent_name": "Mr. and Mrs. Mohapatra",
-                  "studentID": "ST002",
-                  "parentID": "PT002",
-                  "age": "17",
-                  "student_detail": {
-                    "studentID": "ST002",
-                    "address": "Khandagiri",
-                    "phone_number": "+9193373xxxxx"
-                    },
-                    "attendance": {
-                      "date": "",
-                      "day": "",
-                      "total": "29",
-                      "attendended": "96"
-                    },
-                    "marks": {
-                      "exam_type": [
-                        {
-                          "exam_1": {
-                            "date": "04/10/2021",
-                            "exam_name_PT1": {
-                              "subname": ["English", "Maths"],
-                              "total": ["40", "40"],
-                              "obtained": ["39", "38"]
-                            }
-                          }
-                        },
-                        {
-                          "exam_2": {
-                             "date": "01/12/2021",
-                              "exam_name_PT2": {
-                                "subname": ["English", "Maths"],
-                                "total": ["40", "40"],
-                                "obtained": ["35", "36"]
-                              }
-                            }
-                          }
-                        ]
+              "address": "BDA Colony",
+              "phone_number": "+9173260xxxxx"
+              },
+              "attendance": {
+                "date": "",
+                "day": "",
+                "total": "24",
+                "attendended": "80"
+              },
+              "marks": {
+                "exam_type": [
+                  {
+                    "exam_1": {
+                      "date": "04/10/2021",
+                      "exam_name_PT1": {
+                        "subname": ["English", "Maths"],
+                        "total": ["40", "40"],
+                        "obtained": ["39", "38"]
                       }
                     }
-            ]
-          }
-        ]
-      },
+                  },
+                  {
+                    "exam_2": {
+                       "date": "01/12/2021",
+                        "exam_name_PT2": {
+                          "subname": ["English", "Maths"],
+                          "total": ["40", "40"],
+                          "obtained": ["35", "36"]
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Anirban Aditya",
+                "gender" : "male",
+                "class":"12",
+                "parent_name": "Mr. and Mrs. Mohapatra",
+                "studentID": "ST002",
+                "parentID": "PT002",
+                "age": "17",
+                "student_detail": {
+                  "studentID": "ST002",
+                  "address": "Khandagiri",
+                  "phone_number": "+9193373xxxxx"
+                  },
+                  "attendance": {
+                    "date": "",
+                    "day": "",
+                    "total": "29",
+                    "attendended": "96"
+                  },
+                  "marks": {
+                    "exam_type": [
+                      {
+                        "exam_1": {
+                          "date": "04/10/2021",
+                          "exam_name_PT1": {
+                            "subname": ["English", "Maths"],
+                            "total": ["40", "40"],
+                            "obtained": ["39", "38"]
+                          }
+                        }
+                      },
+                      {
+                        "exam_2": {
+                           "date": "01/12/2021",
+                            "exam_name_PT2": {
+                              "subname": ["English", "Maths"],
+                              "total": ["40", "40"],
+                              "obtained": ["35", "36"]
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+          ]
+        }
+      ]
+    },
+    {
+      "exam" :[
       {
-        "exam" :[
-        {
-          "class 12" : [{
-            "exam_name" : "PT 1",
-            "total marks" : "40",
-            "date" : "04/10/2021"
-          },
-          {
-            "exam_name" : "PT 2",
-            "total marks" : "40",
-            "date" : "01/12/2021"
-          }
-        ]
+        "class 12" : [{
+          "exam_name" : "PT 1",
+          "total marks" : "40",
+          "date" : "04/10/2021"
         },
         {
-          "class 11" : [{
-            "exam_name" : "PT 1",
-            "total marks" : "40",
-            "date" : "04/10/2021"
-          },
-          {
-            "exam_name" : "PT 2",
-            "total marks" : "40",
-            "date" : "01/12/2021"
-          }
-        ]
-        },
-        {
-          "class 10" : [{
-            "exam_name" : "PT 1",
-            "total marks" : "40",
-            "date" : "04/10/2021"
-          },
-          {
-            "exam_name" : "PT 2",
-            "total marks" : "40",
-            "date" : "01/12/2021"
-          }
-        ]
+          "exam_name" : "PT 2",
+          "total marks" : "40",
+          "date" : "01/12/2021"
         }
       ]
       },
       {
-        "staff": {
-          "staff_type_teacher": [
-            {
-            "staff_name": "Sekhar Sir",
-            "gender" : "male",
-            "subject" : "Computer Science",
-            "staffID": "TH001",
-            "staff_image_link": null
-          },
-          {
-            "staff_name": "Manas Sir",
-            "gender" : "male",
-            "subject" : "Physics",
-            "staffID": "TH002",
-            "staff_image_link": null
-          },
-          {
-            "staff_name": "Prabhat Sir",
-            "gender" : "male",
-            "subject" : "Maths",
-            "staffID": "TH003",
-            "staff_image_link": null
-          },
-          {
-            "staff_name": "Satyamohan Sir",
-            "gender" : "male",
-            "subject" : "Chemistry",
-            "staffID": "TH004",
-            "staff_image_link": null
-          },
-          {
-            "staff_name": "Gayatri Ma'am",
-            "gender" : "female",
-            "subject" : "Biology",
-            "staffID": "TH005",
-            "staff_image_link": null
-          },
-          {
-            "staff_name": "Rath Ma'am ",
-            "gender" : "female",
-            "subject" : "English",
-            "staffID": "TH006",
-            "staff_image_link": null
-            }
-          ],
-          "staff_type_management" : [
-            {
-              "staff_name": "B.N. Pattnaik Sir",
-              "gender" : "male",
-              "type" : "Chairman",
-              "staffID": "MN001",
-              "staff_image_link": null
-            },
-            {
-            "staff_name": "Archana Ma'am",
-            "gender" : "female",
-            "type" : "Head of Management",
-            "staffID": "MN002",
-            "staff_image_link": null
-          },
-          {
-            "staff_name": "Jayshree Ma'am",
-            "gender" : "female",
-            "type" : "Principal",
-            "staffID": "MN003",
-            "staff_image_link": null
-          }
-        ]      
-        }
-      },
-      {
-        "notice": [{
-          "date": "18/04/2022",
-          "time": "10 am",
-          "title": "Science Exhibiton",
-          "description": "Science Exhibiton for patia branch is preponded to 22/04/2022 from 23/04/2022",
-          "class": "12"
+        "class 11" : [{
+          "exam_name" : "PT 1",
+          "total marks" : "40",
+          "date" : "04/10/2021"
         },
         {
-          "date": "19/04/2022",
-          "time": "11 am",
-          "title": "Stall for Foods",
-          "description": "Anyone who is interested for having a Food Stall during Science Exhibition, please contact to your respective class teachers",
-          "class": "10 and 12"
-          },
-          {
-            "date": "20/04/2022",
-            "time": "9 am",
-            "title": "Marks Certificate Error",
-            "description": "Anyone who has an error in their class 11 marks sheet, please inform to your respective class teachers by 25/04/2022",
-            "class": "12"
-            }
-        ]
+          "exam_name" : "PT 2",
+          "total marks" : "40",
+          "date" : "01/12/2021"
+        }
+      ]
       },
       {
-        "news": [
-          {
-            "title": "Summer Vacation",
-            "short_description" : "Summer Vacation Postponded",
-            "description": "As per government rules, it is been told that summer vaction is postpond to 6 June. It is not like before. Usually summer vacation get started on first week on May",
-            "date": "15/04/2022",
-            "time": "8 pm",
-            "class": "All Class"
-          },
-          {
-          "title": "Time Change!",
-          "short_description" : "School timing change from May 1",
-          "description": "As per government rules, it had been told that from May 1 school timing will be change. New timing will be from 6am to 9am",
-          "date": "15/04/2022",
-          "time": "7 pm",
-          "class": "All Class"
+        "class 10" : [{
+          "exam_name" : "PT 1",
+          "total marks" : "40",
+          "date" : "04/10/2021"
+        },
+        {
+          "exam_name" : "PT 2",
+          "total marks" : "40",
+          "date" : "01/12/2021"
         }
       ]
       }
     ]
-  }
+    },
+    {
+      "staff": {
+        "staff_type_teacher": [
+          {
+          "staff_name": "Sekhar Sir",
+          "gender" : "male",
+          "subject" : "Computer Science",
+          "staffID": "TH001",
+          "staff_image_link": null
+        },
+        {
+          "staff_name": "Manas Sir",
+          "gender" : "male",
+          "subject" : "Physics",
+          "staffID": "TH002",
+          "staff_image_link": null
+        },
+        {
+          "staff_name": "Prabhat Sir",
+          "gender" : "male",
+          "subject" : "Maths",
+          "staffID": "TH003",
+          "staff_image_link": null
+        },
+        {
+          "staff_name": "Satyamohan Sir",
+          "gender" : "male",
+          "subject" : "Chemistry",
+          "staffID": "TH004",
+          "staff_image_link": null
+        },
+        {
+          "staff_name": "Gayatri Ma'am",
+          "gender" : "female",
+          "subject" : "Biology",
+          "staffID": "TH005",
+          "staff_image_link": null
+        },
+        {
+          "staff_name": "Rath Ma'am ",
+          "gender" : "female",
+          "subject" : "English",
+          "staffID": "TH006",
+          "staff_image_link": null
+          }
+        ],
+        "staff_type_management" : [
+          {
+            "staff_name": "B.N. Pattnaik Sir",
+            "gender" : "male",
+            "type" : "Chairman",
+            "staffID": "MN001",
+            "staff_image_link": null
+          },
+          {
+          "staff_name": "Archana Ma'am",
+          "gender" : "female",
+          "type" : "Head of Management",
+          "staffID": "MN002",
+          "staff_image_link": null
+        },
+        {
+          "staff_name": "Jayshree Ma'am",
+          "gender" : "female",
+          "type" : "Principal",
+          "staffID": "MN003",
+          "staff_image_link": null
+        }
+      ]      
+      }
+    },
+    {
+      "notice": [{
+        "date": "18/04/2022",
+        "time": "10 am",
+        "title": "Science Exhibiton",
+        "description": "Science Exhibiton for patia branch is preponded to 22/04/2022 from 23/04/2022",
+        "class": "12"
+      },
+      {
+        "date": "19/04/2022",
+        "time": "11 am",
+        "title": "Stall for Foods",
+        "description": "Anyone who is interested for having a Food Stall during Science Exhibition, please contact to your respective class teachers",
+        "class": "10 and 12"
+        },
+        {
+          "date": "20/04/2022",
+          "time": "9 am",
+          "title": "Marks Certificate Error",
+          "description": "Anyone who has an error in their class 11 marks sheet, please inform to your respective class teachers by 25/04/2022",
+          "class": "12"
+          }
+      ]
+    },
+    {
+      "news": [
+        {
+          "title": "Summer Vacation",
+          "short_description" : "Summer Vacation Postponded",
+          "description": "As per government rules, it is been told that summer vaction is postpond to 6 June. It is not like before. Usually summer vacation get started on first week on May",
+          "date": "15/04/2022",
+          "time": "8 pm",
+          "class": "All Class"
+        },
+        {
+        "title": "Time Change!",
+        "short_description" : "School timing change from May 1",
+        "description": "As per government rules, it had been told that from May 1 school timing will be change. New timing will be from 6am to 9am",
+        "date": "15/04/2022",
+        "time": "7 pm",
+        "class": "All Class"
+      }
+    ]
+    }
+  ]
+}

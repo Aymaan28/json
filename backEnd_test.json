@@ -222,6 +222,7 @@
         "date": "19/04/2022",
         "time": "11 am",
         "title": "Stall for Foods",
+        "short_description": "Anyone who is interested.....",
         "description": "Anyone who is interested for having a Food Stall during Science Exhibition, please contact to your respective class teachers",
         "class": "10 and 12"
         },
@@ -229,6 +230,7 @@
           "date": "20/04/2022",
           "time": "9 am",
           "title": "Marks Certificate Error",
+          "short_description": "Anyone who has an error.....",
           "description": "Anyone who has an error in their class 11 marks sheet, please inform to your respective class teachers by 25/04/2022",
           "class": "12"
           }

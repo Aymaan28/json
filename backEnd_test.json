@@ -214,14 +214,15 @@
       "notice": [{
         "date": "18/04/2022",
         "time": "10 am",
-        "title": "Science Exhibiton",
+        "title": "Science\nExhibiton",
+        "short_description": "Science Exhibiton for.....",
         "description": "Science Exhibiton for patia branch is preponded to 22/04/2022 from 23/04/2022",
         "class": "12"
       },
       {
         "date": "19/04/2022",
         "time": "11 am",
-        "title": "Stall for Foods",
+        "title": "Stall\nfor\nFoods",
         "short_description": "Anyone who is interested.....",
         "description": "Anyone who is interested for having a Food Stall during Science Exhibition, please contact to your respective class teachers",
         "class": "10 and 12"
@@ -229,7 +230,7 @@
         {
           "date": "20/04/2022",
           "time": "9 am",
-          "title": "Marks Certificate Error",
+          "title": "Marks\nCertificate\nError",
           "short_description": "Anyone who has an error.....",
           "description": "Anyone who has an error in their class 11 marks sheet, please inform to your respective class teachers by 25/04/2022",
           "class": "12"

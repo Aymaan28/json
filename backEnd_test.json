@@ -1,7 +1,9 @@
 {
   "school": [
     {
-      "Class 12": [
+      "Class" : [
+        {
+          "Class 12": 
         {
           "student": 
           [{
@@ -93,6 +95,102 @@
                     }
                   }
           ]
+        }
+        },
+        {
+          "Class 11": 
+        {
+          "student": 
+          [{
+            "name": "Rohan",
+            "gender" : "male",
+            "class":"12",
+            "parent_name": "Mrs. Mohapatra",
+            "studentID": "ST003",
+            "parentID": "PT003",
+            "age": "16",
+            "student_detail": {
+              "studentID": "ST003",
+              "address": "Khorda",
+              "phone_number": "+9173260xxxxx"
+              },
+              "attendance": {
+                "date": "",
+                "day": "",
+                "total": "24",
+                "attendended": "80"
+              },
+              "marks": {
+                "exam_type": [
+                  {
+                    "exam_1": {
+                      "date": "04/10/2021",
+                      "exam_name_PT1": {
+                        "subname": ["English", "Maths"],
+                        "total": ["40", "40"],
+                        "obtained": ["39", "38"]
+                      }
+                    }
+                  },
+                  {
+                    "exam_2": {
+                       "date": "01/12/2021",
+                        "exam_name_PT2": {
+                          "subname": ["English", "Maths"],
+                          "total": ["40", "40"],
+                          "obtained": ["35", "36"]
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Aditi",
+                "gender" : "male",
+                "class":"11",
+                "parent_name": "Mr. and Mrs. Behera",
+                "studentID": "ST004",
+                "parentID": "PT004",
+                "age": "15",
+                "student_detail": {
+                  "studentID": "ST004",
+                  "address": "Cuttuck",
+                  "phone_number": "+9193373xxxxx"
+                  },
+                  "attendance": {
+                    "date": "",
+                    "day": "",
+                    "total": "29",
+                    "attendended": "96"
+                  },
+                  "marks": {
+                    "exam_type": [
+                      {
+                        "exam_1": {
+                          "date": "04/10/2021",
+                          "exam_name_PT1": {
+                            "subname": ["English", "Maths"],
+                            "total": ["40", "40"],
+                            "obtained": ["39", "38"]
+                          }
+                        }
+                      },
+                      {
+                        "exam_2": {
+                           "date": "01/12/2021",
+                            "exam_name_PT2": {
+                              "subname": ["English", "Maths"],
+                              "total": ["40", "40"],
+                              "obtained": ["35", "36"]
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+          ]
+        }
         }
       ]
     },

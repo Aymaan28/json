@@ -282,8 +282,8 @@
           "staffID": "TH006",
           "staff_image_link": null
           }
-        ],
-        "staff_type_management" : [
+        ]},
+        {"staff_type_management" : [
           {
             "staff_name": "B.N. Pattnaik Sir",
             "gender" : "male",
@@ -306,7 +306,8 @@
           "staff_image_link": null
         }
       ]      
-      }]
+      }
+    ]
     },
     {
       "notice": [{

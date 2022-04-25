@@ -238,7 +238,7 @@
     ]
     },
     {
-      "staff": {
+      "staff": [{
         "staff_type_teacher": [
           {
           "staff_name": "Sekhar Sir",
@@ -306,7 +306,7 @@
           "staff_image_link": null
         }
       ]      
-      }
+      }]
     },
     {
       "notice": [{

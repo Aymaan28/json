@@ -299,21 +299,21 @@
           {
             "staff_name": "B.N. Pattnaik Sir",
             "gender" : "male",
-            "type" : "Chairman",
+            "subject" : "Chairman",
             "staffID": "MN001",
             "staff_image_link": null
           },
           {
           "staff_name": "Archana Ma'am",
           "gender" : "female",
-          "type" : "Head of Management",
+          "subject" : "Head of Management",
           "staffID": "MN002",
           "staff_image_link": null
         },
         {
           "staff_name": "Jayshree Ma'am",
           "gender" : "female",
-          "type" : "Principal",
+          "subject" : "Principal",
           "staffID": "MN003",
           "staff_image_link": null
         }

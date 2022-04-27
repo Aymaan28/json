@@ -195,45 +195,57 @@
       ]
     },
     {
-      "exam" :[
+      "Exam" :[
       {
-        "class 12" : [{
-          "exam_name" : "PT 1",
-          "total marks" : "40",
-          "date" : "04/10/2021"
-        },
+        "Class 12" : 
         {
-          "exam_name" : "PT 2",
-          "total marks" : "40",
-          "date" : "01/12/2021"
+          "data" :
+          [{
+            "exam_name" : "PT 1",
+            "total marks" : "40",
+            "date" : "04/10/2021"
+          },
+          {
+            "exam_name" : "PT 2",
+            "total marks" : "40",
+            "date" : "01/12/2021"
+          }
+        ]
         }
-      ]
       },
       {
-        "class 11" : [{
-          "exam_name" : "PT 1",
-          "total marks" : "40",
-          "date" : "04/10/2021"
-        },
+        "Class 11" : 
         {
-          "exam_name" : "PT 2",
-          "total marks" : "40",
-          "date" : "01/12/2021"
+          "data" :
+          [{
+            "exam_name" : "PT 1",
+            "total marks" : "40",
+            "date" : "04/10/2021"
+          },
+          {
+            "exam_name" : "PT 2",
+            "total marks" : "40",
+            "date" : "01/12/2021"
+          }
+        ]
         }
-      ]
       },
       {
-        "class 10" : [{
-          "exam_name" : "PT 1",
-          "total marks" : "40",
-          "date" : "04/10/2021"
-        },
+        "Class 10" : 
         {
-          "exam_name" : "PT 2",
-          "total marks" : "40",
-          "date" : "01/12/2021"
+          "data" :
+          [{
+            "exam_name" : "PT 1",
+            "total marks" : "40",
+            "date" : "04/10/2021"
+          },
+          {
+            "exam_name" : "PT 2",
+            "total marks" : "40",
+            "date" : "01/12/2021"
+          }
+        ]
         }
-      ]
       }
     ]
     },

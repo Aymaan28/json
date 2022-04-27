@@ -250,8 +250,9 @@
     ]
     },
     {
-      "staff": [{
-        "staff_type_teacher": [
+      "staff": [
+        {
+        "Teacher": [
           {
           "staff_name": "Sekhar Sir",
           "gender" : "male",
@@ -295,7 +296,8 @@
           "staff_image_link": null
           }
         ]},
-        {"staff_type_management" : [
+        {
+          "Management" : [
           {
             "staff_name": "B.N. Pattnaik Sir",
             "gender" : "male",

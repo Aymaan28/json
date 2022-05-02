@@ -93,7 +93,315 @@
                         }
                       ]
                     }
-                  }
+                  },
+                  {
+                    "name": "Naruto",
+                    "gender" : "Male",
+                    "class":"12",
+                    "parent_name": "Mr/Mrs.\n Namikaze",
+                    "studentID": "ST005",
+                    "parentID": "PT005",
+                    "age": "16",
+                    "student_detail": {
+                      "studentID": "ST005",
+                      "address": "Japan",
+                      "phone_number": "xxxxxxxxxxx"
+                      },
+                      "attendance": {
+                        "date": "",
+                        "day": "",
+                        "total": "24",
+                        "attendended": "80"
+                      },
+                      "marks": {
+                        "exam_type": [
+                          {
+                            "exam_1": {
+                              "date": "04/10/2021",
+                              "exam_name_PT1": {
+                                "subname": ["English", "Maths"],
+                                "total": ["40", "40"],
+                                "obtained": ["39", "38"]
+                              }
+                            }
+                          },
+                          {
+                            "exam_2": {
+                               "date": "01/12/2021",
+                                "exam_name_PT2": {
+                                  "subname": ["English", "Maths"],
+                                  "total": ["40", "40"],
+                                  "obtained": ["35", "36"]
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "name": "Saitama Simasu",
+                        "gender" : "Male",
+                        "class":"12",
+                        "parent_name": "Mr. Simasu",
+                        "studentID": "ST001",
+                        "parentID": "PT001",
+                        "age": "17",
+                        "student_detail": {
+                          "studentID": "ST001",
+                          "address": "Japan",
+                          "phone_number": "+xxxxxxxxxx"
+                          },
+                          "attendance": {
+                            "date": "",
+                            "day": "",
+                            "total": "24",
+                            "attendended": "80"
+                          },
+                          "marks": {
+                            "exam_type": [
+                              {
+                                "exam_1": {
+                                  "date": "04/10/2021",
+                                  "exam_name_PT1": {
+                                    "subname": ["English", "Maths"],
+                                    "total": ["40", "40"],
+                                    "obtained": ["39", "38"]
+                                  }
+                                }
+                              },
+                              {
+                                "exam_2": {
+                                   "date": "01/12/2021",
+                                    "exam_name_PT2": {
+                                      "subname": ["English", "Maths"],
+                                      "total": ["40", "40"],
+                                      "obtained": ["35", "36"]
+                                    }
+                                  }
+                                }
+                              ]
+                            }
+                          },
+                          {
+                            "name": "Nijino shin",
+                            "gender" : "Male",
+                            "class":"12",
+                            "parent_name": "Mr./Mrs. Shin",
+                            "studentID": "ST005",
+                            "parentID": "PT005",
+                            "age": "17",
+                            "student_detail": {
+                            "studentID": "ST005",
+                            "address": "Japan",
+                            "phone_number": "+xxxxxxxxxx"
+                            },
+                            "attendance": {
+                            "date": "",
+                            "day": "",
+                            "total": "24",
+                            "attendended": "80"
+                            },
+                            "marks": {
+                                "exam_type": [
+                                {
+                                "exam_1": {
+                                "date": "04/10/2021",
+                                "exam_name_PT1": {
+                                        "subname": ["English", "Maths"],
+                                        "total": ["40", "40"],
+                                        "obtained": ["39", "38"]
+                                                  }
+                                                }
+                                              },
+                                              {
+                                "exam_2": {
+                                "date": "01/12/2021",
+                                "exam_name_PT2": {
+                                        "subname": ["English", "Maths"],
+                                        "total": ["40", "40"],
+                                        "obtained": ["35", "36"]
+                                                    }
+                                                  }
+                                                }
+                                              ]
+                                            }
+                                          },
+                {
+                            "name": "Shinji Takamiya",
+                            "gender" : "Male",
+                            "class":"12",
+                            "parent_name": "Mr./Mrs. \n Takamiya",
+                            "studentID": "ST006",
+                            "parentID": "PT006",
+                            "age": "17",
+                            "student_detail": {
+                            "studentID": "ST006",
+                            "address": "Japan",
+                            "phone_number": "+xxxxxxxxxx"
+                            },
+                            "attendance": {
+                            "date": "",
+                            "day": "",
+                            "total": "24",
+                            "attendended": "80"
+                            },
+                            "marks": {
+                                "exam_type": [
+                                {
+                                "exam_1": {
+                                "date": "04/10/2021",
+                                "exam_name_PT1": {
+                                        "subname": ["English", "Maths"],
+                                        "total": ["40", "40"],
+                                        "obtained": ["39", "38"]
+                                                  }
+                                                }
+                                              },
+                                              {
+                                "exam_2": {
+                                "date": "01/12/2021",
+                                "exam_name_PT2": {
+                                        "subname": ["English", "Maths"],
+                                        "total": ["40", "40"],
+                                        "obtained": ["35", "36"]
+                                                    }
+                                                  }
+                                                }
+                                              ]
+                                            }
+                                          },
+                {
+                            "name": "Shido itsuka",
+                            "gender" : "Female",
+                            "class":"12",
+                            "parent_name": "Mr./Mrs.\nitsuka",
+                            "studentID": "ST007",
+                            "parentID": "PT007",
+                            "age": "17",
+                            "student_detail": {
+                            "studentID": "ST007",
+                            "address": "Japan",
+                            "phone_number": "+xxxxxxxxxx"
+                            },
+                            "attendance": {
+                            "date": "",
+                            "day": "",
+                            "total": "24",
+                            "attendended": "80"
+                            },
+                            "marks": {
+                                "exam_type": [
+                                {
+                                "exam_1": {
+                                "date": "04/10/2021",
+                                "exam_name_PT1": {
+                                        "subname": ["English", "Maths"],
+                                        "total": ["40", "40"],
+                                        "obtained": ["39", "38"]
+                                                  }
+                                                }
+                                              },
+                                              {
+                                "exam_2": {
+                                "date": "01/12/2021",
+                                "exam_name_PT2": {
+                                        "subname": ["English", "Maths"],
+                                        "total": ["40", "40"],
+                                        "obtained": ["35", "36"]
+                                                    }
+                                                  }
+                                                }
+                                              ]
+                                            }
+                                          },
+                {
+                            "name": "Light yagami",
+                            "gender" : "Female",
+                            "class":"12",
+                            "parent_name": "Mr./Mrs.\nyagami",
+                            "studentID": "ST008",
+                            "parentID": "PT008",
+                            "age": "17",
+                            "student_detail": {
+                            "studentID": "ST008",
+                            "address": "Japan",
+                            "phone_number": "+xxxxxxxxxx"
+                            },
+                            "attendance": {
+                            "date": "",
+                            "day": "",
+                            "total": "24",
+                            "attendended": "80"
+                            },
+                            "marks": {
+                                "exam_type": [
+                                {
+                                "exam_1": {
+                                "date": "04/10/2021",
+                                "exam_name_PT1": {
+                                        "subname": ["English", "Maths"],
+                                        "total": ["40", "40"],
+                                        "obtained": ["39", "38"]
+                                                  }
+                                                }
+                                              },
+                                              {
+                                "exam_2": {
+                                "date": "01/12/2021",
+                                "exam_name_PT2": {
+                                        "subname": ["English", "Maths"],
+                                        "total": ["40", "40"],
+                                        "obtained": ["35", "36"]
+                                                    }
+                                                  }
+                                                }
+                                              ]
+                                            }
+                                          },
+                {
+                            "name": "Allen Walker",
+                            "gender" : "Male",
+                            "class":"12",
+                            "parent_name": "Mr./Mrs.\n Walker",
+                            "studentID": "ST009",
+                            "parentID": "PT009",
+                            "age": "17",
+                            "student_detail": {
+                            "studentID": "ST009",
+                            "address": "Japan",
+                            "phone_number": "+xxxxxxxxxx"
+                            },
+                            "attendance": {
+                            "date": "",
+                            "day": "",
+                            "total": "24",
+                            "attendended": "80"
+                            },
+                            "marks": {
+                                "exam_type": [
+                                {
+                                "exam_1": {
+                                "date": "04/10/2021",
+                                "exam_name_PT1": {
+                                        "subname": ["English", "Maths"],
+                                        "total": ["40", "40"],
+                                        "obtained": ["39", "38"]
+                                                  }
+                                                }
+                                              },
+                                              {
+                                "exam_2": {
+                                "date": "01/12/2021",
+                                "exam_name_PT2": {
+                                        "subname": ["English", "Maths"],
+                                        "total": ["40", "40"],
+                                        "obtained": ["35", "36"]
+                                                    }
+                                                  }
+                                                }
+                                              ]
+                                            }
+                                          }
           ]
         }
         },
